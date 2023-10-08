@@ -1,0 +1,5 @@
+R is independent Open source tool free implementation.
+extension of S language 
+it has huge computing power.
+essential tool for data science and research.
+it is a statistical programming language that includes an interpreter for R.
